@@ -1,0 +1,4 @@
+O que é a GLSL? Quais os dois tipos de shaders são obrigatórios no pipeline programável da versão atual que trabalhamos em aula e o que eles processam? 
+
+É uma linguagem criada pela OpenGL para dar um controle mais direto do pipilene grafico assim não sendo necessario utilizar uma linaguagem de baixo nivel.
+Nós utilizamos o Vertex Shaders e o Fragment shaders, onde o vertex descreve como tratar um vértice e o fragment descreve como tratar uma área
