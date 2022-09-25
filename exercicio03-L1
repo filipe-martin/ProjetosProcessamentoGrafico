@@ -1,0 +1,5 @@
+Explique o que é VBO, VAO e EBO, e como se relacionam (se achar mais fácil, pode fazer um gráfico representando a relação entre eles). 
+
+VBO: é um array de dados(normalmente floats), eles guardam posição, vetores normais, cores etc.
+VAO: Liga os atributos com um vertice
+EBO: Consegue desenhar uma forma retangular a partir de 04 vertices, ele reutiliza os vertices coincidentes.
