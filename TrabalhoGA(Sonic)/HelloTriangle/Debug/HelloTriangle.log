@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Filipe Martin\Desktop\Processamento\TrabalhoGA(Sonic)\PG2022-2-main\HelloTriangle-Texturas-QUA\HelloTriangle\Source.cpp(228,15): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Processamento\TrabalhoGA(Sonic)\PG2022-2-main\HelloTriangle-Texturas-QUA\HelloTriangle\Source.cpp(280,31): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Processamento\TrabalhoGA(Sonic)\PG2022-2-main\HelloTriangle-Texturas-QUA\HelloTriangle\Source.cpp(285,31): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Processamento\TrabalhoGA(Sonic)\PG2022-2-main\HelloTriangle-Texturas-QUA\HelloTriangle\Source.cpp(471,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Processamento\TrabalhoGA(Sonic)\PG2022-2-main\HelloTriangle-Texturas-QUA\HelloTriangle\Source.cpp(472,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  HelloTriangle.vcxproj -> C:\Users\Filipe Martin\Desktop\Processamento\TrabalhoGA(Sonic)\PG2022-2-main\HelloTriangle-Texturas-QUA\Debug\HelloTriangle.exe
