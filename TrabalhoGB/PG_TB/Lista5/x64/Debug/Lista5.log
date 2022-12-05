@@ -1,0 +1,10 @@
+﻿  glad.c
+  SceneManager.cpp
+C:\Users\Filipe Martin\Desktop\Teste\leobilha processamento-grafico\PG_TB\Lista5\SceneManager.cpp(295,59): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Teste\leobilha processamento-grafico\PG_TB\Lista5\SceneManager.cpp(296,23): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Source.cpp
+  Sprite.cpp
+  stb_image.cpp
+  Vetores.cpp
+  Gerando Código...
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'glfw3.lib'
